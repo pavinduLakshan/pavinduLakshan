@@ -5,15 +5,15 @@
 
 - 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/)
 
-- 💬 Ask me about **React.js, Node.js, JavaScript, React Native**
+- 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently learning **Blockchain, Google Cloud, Amazon Web Services, Recommender Systems**
+- 🌱 I’m currently learning **Amazon Web Services, Recommender Systems and Genetic Algorithms**
 
 - 📫 How to reach me **pavindulakshan@gmail.com**
 
-- 😄 Pronouns: **Positive and willing to help**
+- 😄 **Optimistic**
 
-- ⚡ Fun fact **Bathroom singer**
+- 😽 **ailurophile**
 
 <p align="center">
 <img src="http://web.archive.org/web/20171208235127/http://konpa.github.io:80/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
