@@ -1,5 +1,5 @@
 <h1 align="center">Pavindu Lakshan</h1>
-<h3 align="center">Undergraduate of FIT UoM LK | GSoC `21@Apache OODT Participant | MERN Stack Developer</h3>
+<h3 align="center">Undergraduate of FIT UoM LK | GSoC `21@Apache OODT | MERN Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.github.io](https://pavindulakshan.github.io)
 
