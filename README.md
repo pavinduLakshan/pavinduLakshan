@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavindu Lakshan</h1>
-<h3 align="center">An undergraduate of FIT, UoM who is passionate about programming and willing to try and play with new technologies</h3>
+<h1 align="center">Pavindu Lakshan</h1>
+<h3 align="center">Undergraduate of FIT UoM LK | GSoC `21@Apache OODT Participant | MERN Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.github.io](https://pavindulakshan.github.io)
 
