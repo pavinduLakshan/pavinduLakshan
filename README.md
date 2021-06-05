@@ -16,13 +16,26 @@
 - 😽 **ailurophile**
 
 <p align="center">
-<img src="http://web.archive.org/web/20171208235127/http://konpa.github.io:80/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
-<img src="http://web.archive.org/web/20190910182103/http://konpa.github.io:80/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" alt="java" width="40" height="40"/> 
-<img src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png" alt="mongodb" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-</p>
+<img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img  alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img  alt="java"  width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" /> 
+<img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="30px" />
+<img  alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png" alt="mongodb" width="30px"/> 
+<img  alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img  alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
+
+## **Contributions**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavinduLakshan&" alt="pavinduLakshan" /></p>
+
+![](https://komarev.com/ghpvc/?username=pavinduLakshan)
 
 ## **Github Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=pavindulakshan&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="pavindulakshan" /> </p>
