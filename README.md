@@ -1,5 +1,5 @@
 <h1 align="center">Pavindu Lakshan</h1>
-<h3 align="center">Undergraduate of FIT UoM LK | GSoC `21@Apache OODT | MERN Stack Developer</h3>
+<h3 align="center">Undergraduate | Tech Blogger | Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.ml](https://pavindulakshan.ml)
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently learning **Amazon Web Services, Recommender Systems and Genetic Algorithms**
+- 🌱 I’m currently learning **Blockchain technology, Amazon Web Services and Natural Laguage Processing**
 
 - 📫 How to reach me **pavindulakshan@gmail.com**
 
