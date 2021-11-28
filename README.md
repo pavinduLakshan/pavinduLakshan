@@ -1,7 +1,7 @@
 <h1 align="center">Pavindu Lakshan</h1>
 <h3 align="center">Undergraduate | Tech Blogger | Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://pavindulakshan.ml](https://pavindulakshan.ml)
+- 👨‍💻 All of my projects are available at [https://pavindulakshan.com](https://pavindulakshan.com)
 
 - 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/)
 
