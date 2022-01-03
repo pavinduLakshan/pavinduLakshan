@@ -1,7 +1,9 @@
 <h1 align="center">Pavindu Lakshan</h1>
-<h3 align="center">Undergraduate | Tech Blogger | Developer</h3>
+<h3 align="center">Developer | Tech Blogger | Undergraduate | Building HyperFocused</h3>
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.com](https://pavindulakshan.com)
+
+- 🛠️ Currently building [HyperFocused](https://hyperfocused.club) as a solo dev
 
 - 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/)
 
