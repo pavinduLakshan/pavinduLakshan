@@ -9,8 +9,8 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently learning **Blockchain technology, Amazon Web Services and Natural Laguage Processing**
-
+- 🌱 I’m currently learning **Machine Learning, Microservices, Natural Laguage Processing and Figma/Canva**
+ 
 - 📫 How to reach me **pavindulakshan@gmail.com**
 
 - 😄 **Optimistic**
