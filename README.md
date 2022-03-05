@@ -1,5 +1,5 @@
 <h1 align="center">Pavindu Lakshan</h1>
-<h3 align="center">Developer | Tech Blogger | Undergraduate | Building HyperFocused</h3>
+<h3 align="center">Software Engineer @WSO2 | Tech Blogger | Open source Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.com](https://pavindulakshan.com)
 
