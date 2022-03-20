@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently learning **Machine Learning, Microservices, Natural Laguage Processing and Figma/Canva**
+- 🌱 I’m currently **(March 2022)** learning **for AWS SAA certification**
  
 - 📫 How to reach me **pavindulakshan@gmail.com**
 
