@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.com](https://pavindulakshan.com)
 
-- 🛠️ Currently building [HyperFocused](https://hyperfocused.club) as a solo dev
+<!-- - 🛠️ Currently building [HyperFocused](https://hyperfocused.club) as a solo dev -->
 
 - 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently **(March 2022)** learning **for AWS SAA certification**
+- 🌱 I’m currently **(May 2022)** learning **Ballerina, JSP, Machine Learning and TypeScript**
  
 - 📫 How to reach me **pavindulakshan@gmail.com**
 
