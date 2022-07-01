@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently **(May 2022)** learning **Ballerina, JSP, Machine Learning and TypeScript**
+- 🌱 I’m currently **(July 2022)** learning **Java, Figma, Machine Learning and TypeScript**
  
 - 📫 How to reach me **pavindulakshan@gmail.com**
 
