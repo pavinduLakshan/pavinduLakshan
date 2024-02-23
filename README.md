@@ -1,17 +1,17 @@
 <h1 align="center">Pavindu Lakshan</h1>
-<h3 align="center">Software Engineer @WSO2 | Tech Blogger | Open source Enthusiast</h3>
+<h3 align="center">Developer | Tech Blogger | Open source Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://pavindulakshan.com](https://pavindulakshan.com)
 
 <!-- - 🛠️ Currently building [HyperFocused](https://hyperfocused.club) as a solo dev -->
 
-- 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/)
+- 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/) and [pavindulakshan.com](https://pavindulakshan.com/blog)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently **(July 2022)** learning **Java, Figma, Machine Learning and TypeScript**
+- 🌱 I’m currently **(Feb 2024)** learning **Go**
  
-- 📫 How to reach me **pavindulakshan@gmail.com**
+- 📫 How to reach me **hello@pavindulakshan.com**
 
 - 😄 **Optimistic**
 
