@@ -33,17 +33,32 @@
 <img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img  alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
 
-## **Contributions**
+<h3>🔥 Streak Stats</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavinduLakshan&" alt="pavinduLakshan" /></p>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p>
+  <a href="https://github.com/pavinduLakshan/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://streak-stats.demolab.com/?user=pavinduLakshan&theme=monokai-metallian&hide_border=true"/>
+  </a>
+<!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+</p>
 
-![](https://komarev.com/ghpvc/?username=pavinduLakshan)
+<h3>💻 GitHub Profile Stats</h3>
 
-## **Github Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=pavindulakshan&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="pavindulakshan" /> </p>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-## **Top Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavindulakshan&theme=tokyonight&show_icons=true" alt="pavindulakshan" />
+  
+  <a href="https://github.com/pavinduLakshan/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavinduLakshan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/pavinduLakshan/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pavinduLakshan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
 
 <p align="center">
 <a href="https://pavindulakshan.medium.com"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pavindu" height="20" width="20" /></a>
