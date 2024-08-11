@@ -43,7 +43,7 @@
  </a> 
 </p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3>🔥 Streak Stats</h3>
 
