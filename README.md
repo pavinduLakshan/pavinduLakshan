@@ -39,11 +39,11 @@
 <p>
  <a>
   <img width="200" align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=8810941&theme=dark" />
-  <img width="700" height="300" align="left" src="https://github-stackoverflow-readme.vercel.app/?userId=8810941" />
+  <img width="500" height="300" align="left" src="https://github-stackoverflow-readme.vercel.app/?userId=8810941" />
  </a> 
 </p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3>🔥 Streak Stats</h3>
 
