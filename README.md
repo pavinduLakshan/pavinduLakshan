@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
-- 🌱 I’m currently **(October 2024)** learning **Decentralized Identity, Pure mathematics**
+- 🌱 I’m currently **(November 2024)** learning **Generative AI**
  
 - 📫 How to reach me **hello@pavindulakshan.com**
 
