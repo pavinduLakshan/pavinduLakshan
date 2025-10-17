@@ -1,9 +1,7 @@
 <h1 align="center">Pavindu Lakshan</h1>
 <h3 align="center">Developer | Tech Blogger | Open source Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://pavindulakshan.com](https://pavindulakshan.com)
-
-- 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/) and [pavindulakshan.com](https://pavindulakshan.com/blog)
+- 📝 I regulary write articles on [https://pavindulakshan.medium.com](https://pavindulakshan.medium.com/)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
