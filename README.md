@@ -6,8 +6,6 @@
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, React Native**
 
 - 🌱 I’m currently **(November 2024)** learning **Generative AI**
- 
-- 📫 How to reach me **hello@pavindulakshan.com**
 
 - 👷 Loves refactoring large frontend codebases
 
